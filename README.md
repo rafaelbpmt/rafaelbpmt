@@ -1,5 +1,5 @@
 # 💫 Sobre Mim:
-👨‍🎓 Estudante de Design Gráfico (previsão de formatura 2024.2)<br>🎓 Futuro estudante de Sistemas de Informação<br>📚 Atualmente estudando Desenvolvimento Front-End e UI/UX Design
+👨‍🎓 Estudante de Design Gráfico (previsão de formatura 2024.2), estagiei na área por 2 anos;<br>🎓 Futuro estudante de Sistemas de Informação;<br>📚 Atualmente estudando Desenvolvimento Front-End e UI/UX Design.
 
 
 ## 🌐 Socials:
