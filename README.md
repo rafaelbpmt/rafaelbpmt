@@ -39,6 +39,14 @@
 
 ###
 
+<h2 align="left">Projetos</h2>
+
+###
+
+[HTML & CSS - CODERHOUSE](https://github.com/rafaelbpmt/projeto-final-coderhouse)
+
+###
+
 <img src="https://raw.githubusercontent.com/rafaelbpmt/rafaelbpmt/output/snake.svg" alt="Snake animation" />
 
 ###
