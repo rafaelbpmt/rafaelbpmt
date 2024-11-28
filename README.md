@@ -2,10 +2,6 @@
 
 ###
 
-<h2 align="left">Sobre Mim</h2>
-
-###
-
 <p align="left">🎓 Formado em Design Gráfico e atualmente cursando Engenharia de Software.<br><br>🔭 Atualmente estudando para me tornar um QA Engineer.</p>
 
 ###
