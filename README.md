@@ -2,15 +2,11 @@
 
 ###
 
-<p align="left">Atualmente estudando para me tornar um QA Engineer.</p>
-
-###
-
 <h2 align="left">Sobre Mim</h2>
 
 ###
 
-<p align="left">🎓 Formado em Design Gráfico e atualmente cursando Engenharia de Software.<br><br>🔭 Buscando minha primeira vaga em TI.</p>
+<p align="left">🎓 Formado em Design Gráfico e atualmente cursando Engenharia de Software.<br><br>🔭 Atualmente estudando para me tornar um QA Engineer.</p>
 
 ###
 
@@ -48,11 +44,5 @@
 ###
 
 <img src="https://raw.githubusercontent.com/rafaelbpmt/rafaelbpmt/output/snake.svg" alt="Snake animation" />
-
-###
-
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=rafaelbpmt&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-</div>
 
 ###
