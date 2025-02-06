@@ -43,6 +43,7 @@
 
 ###
 
+[25 Bugs da BugsAcademy](https://github.com/rafaelbpmt/Academy-Bugs)
 [HTML & CSS - CODERHOUSE](https://github.com/rafaelbpmt/projeto-final-coderhouse)
 
 ###
