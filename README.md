@@ -55,9 +55,8 @@
 
 ###
 
-[25 Bugs da BugsAcademy](https://github.com/rafaelbpmt/Academy-Bugs) 
+[QA e Tipos de Testes](https://medium.com/@rafaelpmt/qa-e-tipos-de-testes-186529b2b619) 
 
-[HTML & CSS - CODERHOUSE](https://github.com/rafaelbpmt/projeto-final-coderhouse)
 
 ###
 
