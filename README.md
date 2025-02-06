@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">🎓 Formado em Design Gráfico e atualmente cursando Engenharia de Software.<br><br>🔭 Atualmente estudando para me tornar um QA Engineer.</p>
+<p align="left">🎓 Formado em Design Gráfico e atualmente cursando Ciência da Computação.<br><br>🔭 Atualmente estudando para me tornar um QA Engineer.</p>
 
 ###
 
