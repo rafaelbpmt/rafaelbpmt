@@ -55,11 +55,4 @@
 
 ###
 
-🧪 [QA e Tipos de Testes](https://medium.com/@rafaelpmt/qa-e-tipos-de-testes-186529b2b619) 
-
-
-###
-
-
-
 ###
