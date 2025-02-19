@@ -48,11 +48,3 @@
 🖥️ [HTML & CSS - CODERHOUSE](https://github.com/rafaelbpmt/projeto-final-coderhouse)
 
 ###
-
-###
-
-<h2 align="left">Publicações</h2>
-
-###
-
-###
