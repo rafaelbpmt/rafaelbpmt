@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">**QA Engineer**<br><br>Olá! Me chamo Rafael e sou graduado em Design Gráfico e atuei por mais de dois anos na área, desenvolvendo peças gráficas e digitais. <br><br>Atualmente, curso Ciência da Computação, onde venho aprofundando meus conhecimentos em lógica de programação, desenvolvimento, testes de software e automação.</p>
+<p align="left"><Strong>A Engineer</Strong><br><br>Olá! Me chamo Rafael e sou graduado em Design Gráfico e atuei por mais de dois anos na área, desenvolvendo peças gráficas e digitais. <br><br>Atualmente, curso Ciência da Computação, onde venho aprofundando meus conhecimentos em lógica de programação, desenvolvimento, testes de software e automação.</p>
 
 ###
 
