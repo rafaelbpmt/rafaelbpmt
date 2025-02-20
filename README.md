@@ -1,16 +1,16 @@
-<h1 align="center">Olá! Meu nome é Rafael! 👋</h1>
+<h1 align="left">Olá! Meu nome é Rafael! 👋</h1>
 
 ###
 
-<p align="center">Sou graduado em Design Gráfico (IBMR) e atuei por mais de dois anos na área, desenvolvendo peças gráficas e digitais. Atualmente, curso Ciência da Computação (Unicarioca), onde venho aprofundando meus conhecimentos em lógica de programação, desenvolvimento, testes de software e automação.</p>
+<p align="left">Sou graduado em Design Gráfico (IBMR) e atuei por mais de dois anos na área, desenvolvendo peças gráficas e digitais. Atualmente, curso Ciência da Computação (Unicarioca), onde venho aprofundando meus conhecimentos em lógica de programação, desenvolvimento, testes de software e automação.</p>
 
 ###
 
-<h2 align="center">Linguagens & Ferramentas</h2>
+<h2 align="left">Linguagens & Ferramentas</h2>
 
 ###
 
-<div align="center">
+<div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
