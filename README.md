@@ -1,4 +1,4 @@
-<h1 align="left">Rafael Bizarria</h1>
+<h1 align="left">Rafael Bizarria 🧑🏿‍💻</h1>
 
 ###
 <h3>QA Engineer</h3>
