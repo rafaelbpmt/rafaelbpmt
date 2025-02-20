@@ -4,6 +4,7 @@
 
 <p align="left"><Strong>QA Engineer</Strong><br><br>Olá, me chamo Rafael! Sou graduado em Design Gráfico onde atuei por mais de dois anos na área desenvolvendo peças gráficas e digitais. <br><br>Atualmente, curso Ciência da Computação, onde venho aprofundando meus conhecimentos em lógica de programação, desenvolvimento, testes de software e automação.</p>
 
+https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white
 ###
 
 <h2 align="left">Linguagens & Ferramentas</h2>
