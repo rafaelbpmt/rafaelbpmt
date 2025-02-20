@@ -1,7 +1,7 @@
-<h1 align="left">🧑🏿‍💻 Rafael Bizarria </h1>
+<h1 align="left">Rafael Bizarria </h1>
 
 ###
-<h3>QA Engineer</h3>
+<h3>QA Engineer 🧑🏿‍💻</h3>
 <p align="left">Olá, me chamo Rafael! Sou graduado em Design Gráfico onde atuei por mais de dois anos na área desenvolvendo peças gráficas e digitais. <br><br>Atualmente, curso Ciência da Computação, onde venho aprofundando meus conhecimentos em lógica de programação, desenvolvimento, testes de software e automação!</p>
   <a href="mailto:rafaelbpmt@gmail.com target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=FFFFFF&logoColor=242424&labelColor=&style=for-the-badge" height="29" alt="gmail logo"  />
