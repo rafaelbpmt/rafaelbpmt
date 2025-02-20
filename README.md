@@ -1,8 +1,10 @@
-<h1 align="left">Olá, me chamo Rafael! 👋</h1>
+<h1 align="left">Hello, World! 👋</h1>
 
 ###
 
-<p align="left">🎓 Formado em Design Gráfico e atualmente cursando Ciência da Computação.<br><br>🔭 Estudando para me tornar um QA Engineer.</p>
+<p align="left">Olá! Meu nome é Rafael, sou graduado em Design Gráfico (IBMR) e atuei por mais de dois anos na área, desenvolvendo peças gráficas e digitais. Atualmente, curso Ciência da Computação (Unicarioca), onde venho aprofundando meus conhecimentos em lógica de programação, desenvolvimento, testes de software e automação.
+
+Meu objetivo é migrar para a área de QA, na qual tenho me dedicado ao estudo de metodologias ágeis Scrum, testes manuais e automatizados com JavaScript e Cypress, além de ferramentas como Jira, Cypress e Postman, buscando aprimorar minhas habilidades para atuar no mercado de tecnologia. Estou sempre em busca de aprendizado e aberto a oportunidades e conexões na área de QA!</p>
 
 ###
 
