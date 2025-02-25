@@ -14,9 +14,9 @@
 ###
 
 <div align="left">
-  <img src="https://github.com/rafaelbpmt/linktree-clone/blob/main/cy-logo.svg"  width="52" height="40" alt="cypress logo"/>
-  <img width="12" />
   <img src="https://cdn.simpleicons.org/javascript/F7DF1E" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://github.com/rafaelbpmt/linktree-clone/blob/main/cy-logo.svg"  width="52" height="40" alt="cypress logo"/>
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
   <img width="12" />
