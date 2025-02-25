@@ -14,7 +14,7 @@
 ###
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cypressio/cypressio-original.svg"  width="52" height="40" alt="cypress logo"/>
+  <img src="https://github.com/rafaelbpmt/linktree-clone/blob/main/cy-logo.svg"  width="52" height="40" alt="cypress logo"/>
   <img width="12" />
   <img src="https://cdn.simpleicons.org/javascript/F7DF1E" height="40" alt="javascript logo"  />
   <img width="12" />
