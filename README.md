@@ -2,7 +2,7 @@
 
 ###
 <h3> </h3>
-<p align="left">Geografia - UFRJ</p>
+<p align="left">Geotech</p>
   <a href="mailto:rafaelbpmt@gmail.com target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=FFFFFF&logoColor=242424&labelColor=&style=for-the-badge" height="29" alt="gmail logo"  />
   </a>
